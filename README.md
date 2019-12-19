@@ -1,4 +1,12 @@
-点击关注[公众号](#公众号)及时获取笔主最新更新文章，并可免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源。
+关注我的公众号 获取更多资料
+![](http://voyager.guan2ye.com/wx1.jpg)
+
+
+## 程序员必备（云服务器，学习练手，必须要 一天的饭钱换一年的练手机会） 
+
+阿里云新老账户都是享受1折，89一年（老用户比较贵，但是其实你注册一个新账号就好，用家人的支付宝直接扫描一下，几分钟的事情），https://www.aliyun.com/minisite/goods?userCode=vf2b5zld&share_source=copy_link
+
+腾讯云也有https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=1cdaea7b77fe67188b187bce55796594&from=console
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
